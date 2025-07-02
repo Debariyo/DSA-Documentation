@@ -5,7 +5,7 @@ The journey of becoming a professional data analyst...
 
 ### Project Overview: Analysis of Product and Customer Review Data for Strategic Insights
 
-As a Junior Data Analyst at RetailTech Insights, my project focuses on analyzing product and customer review data sourced from Amazon. The objective is to generate actionable insights that support product development, refine marketing strategies, and improve customer engagement for our clients.
+This project focuses on analyzing product and customer review data sourced from Amazon. The objective is to generate actionable insights that support product development, refine marketing strategies, and improve customer engagement for our clients.
 
 This involves the collection, cleaning, and exploratory analysis of product performance metrics and textual customer reviews. Using tools like Excel, and visualization platforms such as PivotTable, I identify trends, pain points, and opportunities within customer feedback.
 
@@ -17,10 +17,12 @@ Key areas of analysis include:
 * **Top/Low Performing Products:** Comparing products by combining rating and review volume to identify high-impact performers or underperformers.
 * **Customer Segmentation :** Grouping customers based on their review behavior or product preferences.
 
-The final deliverables include:
+#### Data Source
+The primary source of data used here is Amazon case study.xlsx. It was provided by the company. 
 
-* A dashboard summarizing key findings.
-* A report highlighting recommendations for product improvement and marketing messaging.
-* A presentation for internal stakeholders and select client teams.
+#### 🔧 Tools Used
 
-Through this project, I aim to contribute to data-driven decision-making that enhances product quality, aligns marketing with customer expectations, and increases customer satisfaction and loyalty.
+* **Microsoft Excel:** For data cleaning, manipulation, and analysis [Download Here](https://1drv.ms/x/c/a85a9bd5b3ca18cd/EXPctzwRfspEj-tNN3rsRAsBKzAlZ1cC5WvgQ9FC0GTTJw?e=DC5gj7)
+* **PivotTables & PivotCharts:** To summarize and explore product ratings, review counts, and customer sentiment trends. [Download Here](https://1drv.ms/x/c/a85a9bd5b3ca18cd/EXPctzwRfspEj-tNN3rsRAsBKzAlZ1cC5WvgQ9FC0GTTJw?e=0xfnSQ)
+* **Excel Dashboard:** For visualizing key performance indicators (KPIs) like top-rated products, review volume, and product performance metrics. [Download Here](https://1drv.ms/x/c/a85a9bd5b3ca18cd/EXPctzwRfspEj-tNN3rsRAsBKzAlZ1cC5WvgQ9FC0GTTJw?e=d5CoWA)
+* **Conditional Formatting & Data Validation:** To enhance data readability and accuracy
