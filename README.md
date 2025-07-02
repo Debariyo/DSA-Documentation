@@ -40,38 +40,32 @@ EDA involved the exploration of the Data to answer some questions about the Data
 4. Which products have the highest average ratings?
 
 #### 📊 Data Analysis
-
 The analysis was performed entirely in Microsoft Excel using built-in functions, PivotTables, and dashboard components. Below are examples of techniques and formulas used:
 **📌 Sample Excel Functions Used:**
-
 * `=AVERAGEIF(range, criteria, average_range)` – to calculate average rating per product category
 * `=COUNTIF(range, criteria)` – to count specific review types (e.g., 1-star, 5-star)
 * `=IF(condition, value_if_true, value_if_false)` – for conditional flagging (e.g., low-rated products)
 
 **📌 PivotTable & PivotChart Usage:**
-
 * Created PivotTables to summarize:
-
   * Total number of reviews by product
   * Average rating by category
   * Monthly review trends
 * Used PivotCharts to visualize:
-
   * Rating distribution
   * Top 5 and bottom 5 products
   * Review volume over time
 
 **📌 Dashboard Components:**
-
 * Slicers added for filtering by:
-
   * Product category
   * Rating level
   * Time period
 * Conditional formatting to highlight:
-
   * Products with average rating < 3
   * Products with highest review volume
+
+#### Result Findings
 
    
 * **Microsoft Excel:** For data cleaning, manipulation, and analysis [Download Here](https://1drv.ms/x/c/a85a9bd5b3ca18cd/EXPctzwRfspEj-tNN3rsRAsBKzAlZ1cC5WvgQ9FC0GTTJw?e=DC5gj7)
