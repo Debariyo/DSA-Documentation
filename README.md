@@ -21,7 +21,59 @@ Key areas of analysis include:
 The primary source of data used here is Amazon case study.xlsx. It was provided by the company. 
 
 #### 🔧 Tools Used
+* **Microsoft Excel:** For data cleaning, manipulation, and analysis [Download Here](https://www.microsoft.com/en-us/download)
+* **PivotTables & PivotCharts:** To summarize and explore product ratings, review counts, and customer sentiment trends
+* **Excel Dashboard:** For visualizing key performance indicators (KPIs) like top-rated products, review volume, and product performance metrics
+* **Conditional Formatting & Data Validation:** To enhance data readability and accuracy
 
+#### Data Cleaning and Preparation
+In the initial phase of the Data Cleaning and preparation, we pwerform the following actions:
+1. Data loading and inspection
+2. Handling missing variables
+3. Data Cleaning and formatting
+
+#### Exploratory Data Analysis
+EDA involved the exploration of the Data to answer some questions about the Data such as:
+1. What is the average discount percentage by product category? 
+2. How many products are listed under each category? 
+3. What is the total number of reviews per category?  
+4. Which products have the highest average ratings?
+
+#### 📊 Data Analysis
+
+The analysis was performed entirely in Microsoft Excel using built-in functions, PivotTables, and dashboard components. Below are examples of techniques and formulas used:
+**📌 Sample Excel Functions Used:**
+
+* `=AVERAGEIF(range, criteria, average_range)` – to calculate average rating per product category
+* `=COUNTIF(range, criteria)` – to count specific review types (e.g., 1-star, 5-star)
+* `=IF(condition, value_if_true, value_if_false)` – for conditional flagging (e.g., low-rated products)
+
+**📌 PivotTable & PivotChart Usage:**
+
+* Created PivotTables to summarize:
+
+  * Total number of reviews by product
+  * Average rating by category
+  * Monthly review trends
+* Used PivotCharts to visualize:
+
+  * Rating distribution
+  * Top 5 and bottom 5 products
+  * Review volume over time
+
+**📌 Dashboard Components:**
+
+* Slicers added for filtering by:
+
+  * Product category
+  * Rating level
+  * Time period
+* Conditional formatting to highlight:
+
+  * Products with average rating < 3
+  * Products with highest review volume
+
+   
 * **Microsoft Excel:** For data cleaning, manipulation, and analysis [Download Here](https://1drv.ms/x/c/a85a9bd5b3ca18cd/EXPctzwRfspEj-tNN3rsRAsBKzAlZ1cC5WvgQ9FC0GTTJw?e=DC5gj7)
 * **PivotTables & PivotCharts:** To summarize and explore product ratings, review counts, and customer sentiment trends. [Download Here](https://1drv.ms/x/c/a85a9bd5b3ca18cd/EXPctzwRfspEj-tNN3rsRAsBKzAlZ1cC5WvgQ9FC0GTTJw?e=0xfnSQ)
 * **Excel Dashboard:** For visualizing key performance indicators (KPIs) like top-rated products, review volume, and product performance metrics. [Download Here](https://1drv.ms/x/c/a85a9bd5b3ca18cd/EXPctzwRfspEj-tNN3rsRAsBKzAlZ1cC5WvgQ9FC0GTTJw?e=d5CoWA)
