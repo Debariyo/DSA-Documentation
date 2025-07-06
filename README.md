@@ -66,9 +66,6 @@ The analysis was performed entirely in Microsoft Excel using built-in functions,
   * Products with highest review volume
 
 #### Result Findings
-### Analysis of ARIYO Amazon Case Study - Pivot Table Findings:
-
-The pivot table provides a summarized view of the Amazon product review data, offering insights into product distribution, pricing strategies, customer engagement, and rating trends across different categories.
 
 #### 1. Product Distribution by Category:
 * **Electronics** has the highest number of listed products with 476, followed closely by **Home&Kitchen** with 448 products, and then **Computers&Accessories** with 375 products.
